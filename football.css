@@ -1,0 +1,31 @@
+/* Hero Section */
+.hero-section {
+    background: url('football-field.jpg') no-repeat center center/cover;
+    min-height: 100vh;
+    height: 50vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #e8a6a6;
+    display: block;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+}
+
+/* Player Section */
+.players-section .card {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
